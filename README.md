@@ -1,6 +1,8 @@
 # Movie Recommender System
 A content based movie recommender system using cosine similarity.
 
+  https://github.com/iamvikramkumar/movie-recommender-system/assets/89016145/78edc1cd-e784-4f7f-b89d-417f45ec8b6e
+
 # Streamlit Project Installation and Setup Guide
 
 This guide will help you install and run the Streamlit project on your system.
